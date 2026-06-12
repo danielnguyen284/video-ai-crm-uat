@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+.env.local
+.env.*.local
+
+# Production builds
+dist/
+**/dist/
+
+# Application specific
+backups/
+**/backups/
+uploads/
+**/uploads/
